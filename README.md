@@ -1,4 +1,4 @@
-# ASR-Inspect
+# ASR Inspect
 <p align="center">
   <img src="https://github.com/user-attachments/assets/453c917e-1993-4bcb-8975-7978d5cbd17b" width="800" height="448">
 </p>
