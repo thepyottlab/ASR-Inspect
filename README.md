@@ -1,6 +1,6 @@
 # ASR-Inspect
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2208353b-147b-494d-bd7a-4db54b534e48" width="892" height="500">
+  <img src="https://github.com/user-attachments/assets/453c917e-1993-4bcb-8975-7978d5cbd17b" width="800" height="448">
 </p>
 
 ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle Reflex (ASR) measurements. It allows you to load datasets exported from the PCT software for the Kinder Scientific Startle Reflex System, visualize individual trials, and classify them as accepted or rejected.
