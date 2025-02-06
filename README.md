@@ -32,5 +32,3 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 |------------|--------------------------|
 | **→ / ←**  | Next / Previous trial    |
 | **Space**  | Toggle Accept/Reject     |
-
-![image](https://github.com/user-attachments/assets/0db356b6-64d6-4d79-b7f3-20ca71fd7f89)
