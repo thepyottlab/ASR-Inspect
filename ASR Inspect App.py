@@ -95,7 +95,7 @@ class TrialApp(tk.Tk):
         """
         Initializes the user interface elements of the application.
         """
-        self.title("GPIAS Trial Marker")
+        self.title("ASR Inspect")
         screen_width, screen_height = (self.winfo_screenwidth(),
                                        self.winfo_screenheight())
         self.geometry(f"{screen_width}x{screen_height}")
@@ -215,7 +215,7 @@ class TrialApp(tk.Tk):
         control_panel.pack(fill="both", expand=True, padx=10, pady=(5, 17))
 
         remove_rejected_button = ttk.Button(control_panel,
-                                            text="Remove Rejected Trials",
+                                            text="Remove rejected trials",
                                             command=self.remove_rejected,
                                             style="Accent.TButton")
         remove_rejected_button.pack(side="top", fill="x", padx=15,
