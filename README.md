@@ -10,7 +10,7 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 - Navigate between trials using arrow keys.
 - Manually or automatically adjust the scale.
 - Toggle trial status (Accepted ↔ Rejected) using the space bar.
-- Remove all rejected trials from the dataset.
+- Remove rejected trials from the dataset.
 - Export datasets before or after filtering or classifying.
 
 ## Installation
@@ -20,9 +20,9 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 
 ## Usage
 1. Run the application.
-2. Load a dataset (CSV exported from PCT software).
+2. Load a dataset (CSV exported from PCT software using the 'Reduce' functionality).
 3. Navigate trials using arrow keys or enter a trial number.
-4. Mark trials as rejected (press the space bar).
+4. Mark trials as rejected using the space bar.
 5. Adjust Y-scale manually or enable auto-scaling.
 6. Export the dataset before or after removing rejected trials.
 
@@ -30,5 +30,5 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 
 | Key         | Action                   |
 |------------|--------------------------|
-| **→ / ←**  | Next / Previous trial    |
+| **→ / ←**  | Next/Previous trial    |
 | **Space**  | Toggle Accept/Reject     |
