@@ -26,6 +26,9 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 5. Adjust Y-scale manually or enable auto-scaling.
 6. Export the dataset before or after removing rejected trials.
 
+To test the application, you can download a sample dataset:
+[Sample Data - Kinder Scientific ASR Assay.csv](https://github.com/thepyottlab/ASR-Inspect/blob/main/Sample%20Data%20-%20Kinder%20Scientific%20ASR%20Assay.csv)
+
 ## Keyboard Shortcuts
 
 | Key         | Action                   |
