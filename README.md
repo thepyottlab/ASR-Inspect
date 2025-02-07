@@ -15,7 +15,7 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 
 ## Installation
 1. Navigate to [Releases](https://github.com/thepyottlab/ASR-Inspect/releases).
-2. Download the 'ASR Inspect Setup.exe' file.
+2. Download the `ASR Inspect Setup.exe` file.
 3. Run the installer.
 
 ## Usage
@@ -27,7 +27,7 @@ ASR Inspect is a graphical tool for analyzing and classifying Acoustic Startle R
 6. Export the dataset before or after removing rejected trials.
 
 To test the application, you can download a sample dataset:
-[Sample Data - Kinder Scientific ASR Assay.csv](https://github.com/thepyottlab/ASR-Inspect/blob/main/Sample%20Data%20-%20Kinder%20Scientific%20ASR%20Assay.csv)
+`[Sample Data - Kinder Scientific ASR Assay.csv]`(https://github.com/thepyottlab/ASR-Inspect/blob/main/Sample%20Data%20-%20Kinder%20Scientific%20ASR%20Assay.csv)
 
 ## Keyboard Shortcuts
 
